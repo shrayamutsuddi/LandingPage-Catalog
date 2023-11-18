@@ -1,0 +1,1 @@
+var arrowBtn = document.getElementById("arrow-button");
